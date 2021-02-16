@@ -1,2 +1,2 @@
 # Old-DPR-Format-from-Spanish-INE
-App to transform the new data from INE Data Population Register to the old format
+App to transform the new data from INE Data Population Register to the old format (<2013)
