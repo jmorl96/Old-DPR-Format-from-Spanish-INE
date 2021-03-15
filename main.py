@@ -35,7 +35,7 @@ year = str(input())
 while True:
     try:
             time.strptime(year, '%Y')
-            print("Formato Correcto")
+            print("Correct format")
             break 
     except:
         print("Wrong format, the correct format is: \n Ex: '2015' ")
